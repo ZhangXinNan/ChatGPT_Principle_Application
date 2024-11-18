@@ -1,0 +1,2 @@
+B站 配套视频：https://b23.tv/hdnXn1L
+开源项目HuggingLLM 教程：https://github.com/datawhalechina/hugging-llm
